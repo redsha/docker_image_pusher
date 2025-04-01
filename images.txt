@@ -1,1 +1,1 @@
-manticoresearch/manticore:latest
+oracleinanutshell/oracle-xe-11g:latest
