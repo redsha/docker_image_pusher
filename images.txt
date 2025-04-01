@@ -1,1 +1,1 @@
-chromadb/chroma:latest
+manticoresearch/manticore:latest
