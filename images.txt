@@ -1,1 +1,1 @@
-oracleinanutshell/oracle-xe-11g:latest
+neo4j:latest
