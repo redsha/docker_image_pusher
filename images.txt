@@ -1,3 +1,4 @@
 dbgate/dbgate
 senshinya/moontv
 shiyindaxiaojie/arthas-tunnel-server
+ghcr.io/lukegus/termix:latest
