@@ -1,1 +1,2 @@
-nacos/nacos-server
+library/nginx
+library/redis
