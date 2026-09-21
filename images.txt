@@ -1,1 +1,1 @@
-jpomdocker/jpom
+redis:latest
