@@ -1,1 +1,1 @@
-redis:latest
+redis:8.10.2
